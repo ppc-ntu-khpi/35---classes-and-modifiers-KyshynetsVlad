@@ -74,6 +74,6 @@
     }
     }
     
- ![TASK 1.1](https://github.com/ppc-ntu-khpi/35-first-lab-KyshynetsVlad/blob/master/Solution/task_1.1.png "TASK 1.1")
+ ![Done](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-KyshynetsVlad/blob/main/Solution/done.png "Done")
 
 
