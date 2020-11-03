@@ -39,7 +39,7 @@
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
 
 # Class Customer
-
+````
     package domain;
 
     public class Customer {
@@ -73,7 +73,7 @@
         }
     }
     }
-    
+````    
  ![Done](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-KyshynetsVlad/blob/main/Solution/done.png "Done")
 
 
