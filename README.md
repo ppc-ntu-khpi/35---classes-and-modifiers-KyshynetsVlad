@@ -39,7 +39,7 @@
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
 
 # Class Customer
-```
+```java
     package domain;
 
     public class Customer {
